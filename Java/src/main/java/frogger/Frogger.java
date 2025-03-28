@@ -27,4 +27,7 @@ public class Frogger {
     public boolean recordMyself() {
         return records.addRecord(id);
     }
+    public int getPosition() {
+        return position;
+    }
 }
