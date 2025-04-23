@@ -1,13 +1,13 @@
 package drawing;
 
+import java.io.IOException;
+import java.io.Writer;
+import java.util.List;
+
 import drawing.shapes.Line;
 import drawing.shapes.Shape;
 import drawing.writing.JPEGWriter;
 import drawing.writing.PNGWriter;
-
-import java.io.IOException;
-import java.io.Writer;
-import java.util.List;
 
 /**
  * Refactor Task 3: (Mis-)Shaped
